@@ -1,0 +1,9 @@
+{
+  "matricula": 12345,
+  "nome": "Luiz",
+  "cpf": "132465",
+  "curso": "Computacao",
+  "filiacao": "Vicente e Riselda",
+  "ingresso": "2023-02-10T00:00:00.000Z",
+  "ca": 8.8
+}
