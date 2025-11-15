@@ -22,5 +22,6 @@
 // 	} catch (err) {
 // 		return null;
 // 	}
-// }
+// } Não utilizado mais por ser de outro padrão, deixei de exemplo por que eu gostaria de explorar este tipo de arquivo depois.
+
 
