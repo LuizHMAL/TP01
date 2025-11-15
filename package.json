@@ -1,16 +1,12 @@
 {
-  "name": "meu-projeto",
+  "name": "trabalho_aedsii",
   "version": "1.0.0",
-  "type": "module",
-  "main": "dist/index.js",
+  "type": "commonjs",
   "scripts": {
-    "dev": "tsx src/index.ts",
-    "build": "tsc",
-    "start": "node dist/index.js"
+    "start": "ts-node src/main.ts"
   },
   "devDependencies": {
-    "typescript": "^5.6.0",
-    "tsx": "^4.19.2",
-    "@types/node": "^22.8.1"
+    "ts-node": "^10.9.1",
+    "typescript": "^5.6.3"
   }
 }

@@ -1,0 +1,57 @@
+Relatório - Registros Variáveis Contíguos (spread=true)
+Gerado em: 2025-11-15T17:05:18.068Z
+Total Blocos: 48
+Blocos parcialmente usados: 48
+Ocupação média por bloco: 98.53%
+Eficiência total: 98.53%
+
+Detalhes dos blocos:
+
+Bloco 1: 512 bytes (503 bytes usados) - 98.24%
+Bloco 2: 512 bytes (506 bytes usados) - 98.83%
+Bloco 3: 512 bytes (506 bytes usados) - 98.83%
+Bloco 4: 512 bytes (506 bytes usados) - 98.83%
+Bloco 5: 512 bytes (506 bytes usados) - 98.83%
+Bloco 6: 512 bytes (506 bytes usados) - 98.83%
+Bloco 7: 512 bytes (506 bytes usados) - 98.83%
+Bloco 8: 512 bytes (506 bytes usados) - 98.83%
+Bloco 9: 512 bytes (506 bytes usados) - 98.83%
+Bloco 10: 512 bytes (506 bytes usados) - 98.83%
+Bloco 11: 512 bytes (506 bytes usados) - 98.83%
+Bloco 12: 512 bytes (503 bytes usados) - 98.24%
+Bloco 13: 512 bytes (506 bytes usados) - 98.83%
+Bloco 14: 512 bytes (506 bytes usados) - 98.83%
+Bloco 15: 512 bytes (506 bytes usados) - 98.83%
+Bloco 16: 512 bytes (506 bytes usados) - 98.83%
+Bloco 17: 512 bytes (506 bytes usados) - 98.83%
+Bloco 18: 512 bytes (506 bytes usados) - 98.83%
+Bloco 19: 512 bytes (506 bytes usados) - 98.83%
+Bloco 20: 512 bytes (506 bytes usados) - 98.83%
+Bloco 21: 512 bytes (506 bytes usados) - 98.83%
+Bloco 22: 512 bytes (503 bytes usados) - 98.24%
+Bloco 23: 512 bytes (506 bytes usados) - 98.83%
+Bloco 24: 512 bytes (506 bytes usados) - 98.83%
+Bloco 25: 512 bytes (506 bytes usados) - 98.83%
+Bloco 26: 512 bytes (506 bytes usados) - 98.83%
+Bloco 27: 512 bytes (506 bytes usados) - 98.83%
+Bloco 28: 512 bytes (506 bytes usados) - 98.83%
+Bloco 29: 512 bytes (506 bytes usados) - 98.83%
+Bloco 30: 512 bytes (506 bytes usados) - 98.83%
+Bloco 31: 512 bytes (506 bytes usados) - 98.83%
+Bloco 32: 512 bytes (506 bytes usados) - 98.83%
+Bloco 33: 512 bytes (503 bytes usados) - 98.24%
+Bloco 34: 512 bytes (506 bytes usados) - 98.83%
+Bloco 35: 512 bytes (506 bytes usados) - 98.83%
+Bloco 36: 512 bytes (506 bytes usados) - 98.83%
+Bloco 37: 512 bytes (506 bytes usados) - 98.83%
+Bloco 38: 512 bytes (506 bytes usados) - 98.83%
+Bloco 39: 512 bytes (506 bytes usados) - 98.83%
+Bloco 40: 512 bytes (507 bytes usados) - 99.02%
+Bloco 41: 512 bytes (506 bytes usados) - 98.83%
+Bloco 42: 512 bytes (506 bytes usados) - 98.83%
+Bloco 43: 512 bytes (507 bytes usados) - 99.02%
+Bloco 44: 512 bytes (506 bytes usados) - 98.83%
+Bloco 45: 512 bytes (503 bytes usados) - 98.24%
+Bloco 46: 512 bytes (506 bytes usados) - 98.83%
+Bloco 47: 512 bytes (506 bytes usados) - 98.83%
+Bloco 48: 512 bytes (446 bytes usados) - 87.11%
